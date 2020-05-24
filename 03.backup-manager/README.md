@@ -3,5 +3,5 @@
 사용중인 스킨과 관리자 스킨, 실적용 소스, 개발소스를 백업합니다.<br> 
 추가적으로 백업하고 싶은 디렉토리나 제외하고 싶은 디렉토리는 /module/Controller/Admin/Backup/BackupExecuteController.php 에서 지정하면 됩니다.<br>
 
-#Preview
+# Preview
 <img src="./preview.png" width=500 height=500 />
